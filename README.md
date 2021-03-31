@@ -5,9 +5,7 @@
 
 .Atualmente estou estudando a linguagem Java ☕️💞
 
-.Tenho conhecimentos em Html,Css e JavaScript 🎨👨🏻‍🎨
-
-.Sou fascinado em aprender coisas novas 📚
+.Tenho conhecimentos em Html,Css e JavaScript 🎨👨
 
 .Estudando com foco em Java Web 🚀☕️
 
