@@ -1,13 +1,13 @@
 ### Hi there 👋
-📍 Natural de Salvador-BA 
+📍 I Was Born in Salvador-BA 
  
-.Estudante de Engenharia de Software 🎓
+💞Software Engineering Student.
 
-.Atualmente estou estudando a linguagem Java ☕️💞
+☕️I am currently studying the Java language.
 
-.Tenho conhecimentos em Html,Css e JavaScript 🎨👨
+👨I have knowledge in Html, Css and JavaScript.
 
-.Estudando com foco  Java Web 🚀☕️
+🎨Studying Java Web With Focus.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaiomacedo&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiomacedo&layout=compact&theme=omni)
