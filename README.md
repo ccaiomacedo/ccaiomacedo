@@ -7,7 +7,7 @@
 
 .Tenho conhecimentos em Html,Css e JavaScript 🎨👨
 
-.Estudando com foco em Java Web 🚀☕️
+.Estudando com foco  Java Web 🚀☕️
 
 
 <!--
