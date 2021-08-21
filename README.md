@@ -5,6 +5,8 @@
 
 ☕️I am currently studying the Java language.
 
+🎯Focus on developing API's REST using Java with Spring Boot.
+
 🛠I have knowledge in Html, Css and JavaScript.
 
 📫Studying Java Web.
