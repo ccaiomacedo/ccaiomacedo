@@ -7,6 +7,8 @@
 
 🎯Focus on developing API's REST using Java with Spring Boot.
 
+🎯Consume API with Ionic and React.
+
 🛠I have knowledge in Html, Css and JavaScript.
 
 📫Studying Java Web.
