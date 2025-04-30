@@ -1,7 +1,7 @@
 ### Hi there 👋
 📍 I Was Born in Salvador-BA 
  
-👨🏻‍🎓Software Engineering Student.
+👨🏻‍🎓Software Engineering.
 
 ☕️I am currently studying the Java language.
 
